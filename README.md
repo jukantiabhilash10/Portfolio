@@ -42,14 +42,13 @@ Portfolio/
 
 ---
 
-## 🚀 How to Run
+## ▶️ How to Run  
 
-1. Clone this repository:
+1. Clone this repository:  
 
-'''
-    git clone https://github.com/jukantiabhilash10/Portfolio.git
-    cd Portfolio
-'''
+   ```bash
+   git clone https://github.com/jukantiabhilash10/Portfolio.git
+   cd Portfolio
 
 2. Open `portfolio.html` in your favorite web browser to view the website.
 
@@ -58,13 +57,6 @@ Portfolio/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 📞 Contact
